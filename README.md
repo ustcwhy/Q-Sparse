@@ -1,10 +1,11 @@
-# Q-Sparse
-
-Official implementation of **Q-Sparse: Scaling Large Language Models with Fully Sparse Activations**.
+# Q-Sparse: Scaling Large Language Models with Fully Sparse Activations
 
 This repository provides the official code and training scripts for sparse supervised fine-tuning (SFT) of Qwen2 models with Q-Sparse. It includes environment setup, data preparation, model preparation, and distributed training with DeepSpeed.
 
 Q-Sparse enables fully sparse activations during training by retaining only the largest-magnitude activations according to a configurable sparsity ratio.
+
+- **Oct. 2026:** Code is released!
+- **May 2026:** [Q-Sparse](https://openreview.net/pdf?id=MntjMCroiE) is accepted by TMLR 2026.
 
 ## Contents
 
