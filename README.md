@@ -1,4 +1,4 @@
-# Q-Sparse: Scaling Large Language Models with Fully Sparse Activations
+# Scaling Large Language Models with Fully Sparse Activations
 
 This repository provides the official code and training scripts for sparse supervised fine-tuning (SFT) of Qwen2 models with Q-Sparse. It includes environment setup, data preparation, model preparation, and distributed training with DeepSpeed.
 
